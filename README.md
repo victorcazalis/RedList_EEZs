@@ -1,5 +1,10 @@
 Global shapefile of countries EEZs matching Red List (SIS) list of Countries of Occurrence (level 0 and some level 1)
 
+
+***
+NEWS IN V_2023.2
+- I split Turkey into Asia and European parts as well as Russia (European part, East Asia, Central Asia) according to their level 1 in SIS. This was needed to enable restricting distributions for European Red List assessments of marine species.
+
 ***
 NEWS IN V_2023.1
 
